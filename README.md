@@ -31,6 +31,7 @@ This dataset contains `6362620` Transaction records with `11` features.
 ```
 
 ├── money_laundering.ipynb
+│   ├── Kaggle.json (token to read dataset)
 ├── predictions
 │   ├── Outputs.csv
 ├── saved_models
@@ -51,6 +52,7 @@ Python programming language and frameworks such as NumPy, Pandas, Scikit-learn a
 - Front end development is done using HTML/CSS
 - Flask framework is used for backend development
 - GitHub is used as a version control system.
+- Kaggle data marketplace is used for synthetic data.
 
 ## Contributors
 
