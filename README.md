@@ -52,11 +52,6 @@ Python programming language and frameworks such as NumPy, Pandas, Scikit-learn a
 - Flask framework is used for backend development
 - GitHub is used as a version control system.
 
-## 👨🏻‍💻 Web App
-
-![alt text](https://github.com/SamikshaDhadam/Hackathon-2023-Data)
-
-
 ## Contributors
 
 1. Anurag Nawal
