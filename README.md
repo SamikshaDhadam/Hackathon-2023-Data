@@ -29,29 +29,14 @@ This dataset contains `6362620` Transaction records with `11` features.
 
 ## ⽊ Project Tree Structure
 ```
- .
-├── catboost_info
-├── logs
-│   ├── model_development.txt
+
+├── money_laundering.ipynb
 ├── predictions
 │   ├── Outputs.csv
-├── reports
-│   ├── feature_importances.csv
-│   ├── missing_values.csv
-│   ├── performance.json
-│   └── silhoutte_scores.csv
 ├── saved_models
 │   ├── model.pkl
-├── src
-│   ├── data_preprocessing_1.py
-│   ├── data_preprocessing_2.py
-│   ├── data_preprocessing_3.py
-│   ├── feature_selection.py
-│   ├── segmentGenerator.py
-│   └── model_creation.py
 ├── templates
 │   ├── index.html
-├── Procfile
 ├── app.py
 ├── requirements.txt
 └── README.md
@@ -60,8 +45,6 @@ This dataset contains `6362620` Transaction records with `11` features.
 ## 🛠 Tools used
 
 Python programming language and frameworks such as NumPy, Pandas, Scikit-learn and Catboost are used to build the whole model.
-
-![alt text](https://github.com/mvram123/mvram123/blob/main/ML/t.png)
 
 - Visual Studio Code and Google Colab is used as an IDE.
 - For visualization of the plots, Matplotlib and Seaborn are used.
